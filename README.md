@@ -1,5 +1,7 @@
 # CSS Avançado
 
+![screenshot](https://github.com/guiemi-learning-center/Advanced-CSS/blob/master/1-arquitetura-css/arquitetura-css-assets/assets/img/screenshot.jpg)
+
 # Coisas novas que aprendi
 
 ## BEM (Block, Element, Modifier)
