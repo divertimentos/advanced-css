@@ -23,3 +23,14 @@
   ```
 
   
+
+## Media queries (Responsividade)
+
+```css
+@media screen and (min-width: 768px) {
+  .selector {
+    padding: 2.5rem;
+  }
+};
+```
+
