@@ -1,17 +1,19 @@
 # CSS Avançado
 
+# Arquitetura CSS: Descomplicando os problemas (Curso 1/6)
+
 ![screenshot](https://github.com/guiemi-learning-center/Advanced-CSS/blob/master/1-arquitetura-css/arquitetura-css-assets/assets/img/screenshot.jpg)
 
-# Coisas novas que aprendi
+## Coisas novas que aprendi
 
-## BEM (Block, Element, Modifier)
+### BEM (Block, Element, Modifier)
 
 * `bloco`
 * `bloco__elemento`
 * `bloco--modificador`
 * `bloco__elemento--modificador`
 
-## Calc
+### Calc
 
 * Para que um banner se estendesse por toda a tela (`height: 100vh;`), mas desconsiderasse a altura da navbar, aprendi a usar a função `calc();` para subtrair 72 pixels:
 
@@ -22,7 +24,6 @@
   }
   ```
 
-  
 
 ## Media queries (Responsividade)
 
@@ -33,4 +34,18 @@
   }
 };
 ```
+
+# Sass e Compass: Descomplicando o  CSS (Curso 2/6)
+
+
+
+# Flexbox: Posicione elementos na tela (Curso 3/6)
+
+#CSS Grid: Simplificando Layouts (Curso 4/6)
+
+# Web Design Responsivo: Páginas que se adaptam do mobile ao desk (Curso 5/6)
+
+# Layouts Responsivos: Trabalhando com layouts mobile (Curso 6/6)
+
+
 
