@@ -41,7 +41,7 @@
 
 # Flexbox: Posicione elementos na tela (Curso 3/6)
 
-#CSS Grid: Simplificando Layouts (Curso 4/6)
+# CSS Grid: Simplificando Layouts (Curso 4/6)
 
 # Web Design Responsivo: Páginas que se adaptam do mobile ao desk (Curso 5/6)
 
