@@ -1,4 +1,5 @@
 $cor-padrao: #c24e4b;
+$cor-auxiliar: #1e2c35;
 $cor-branca: #FFF;
 
 
@@ -163,7 +164,7 @@ header .container {
 
 /** Planos **/
 .planos {
-  background: #1e2c35;
+  background: $cor-auxiliar;
 }
 
 .planos h2 {
@@ -231,7 +232,8 @@ header .container {
   margin-left: 2em;
 }
 
-.icone-check, .icone-x {
+.icone-check,
+.icone-x {
   background: url(../imagens/sprite.png) no-repeat;
   width: 18px;
   height: 18px;
@@ -348,7 +350,7 @@ footer::after {
 
 footer::before {
   content: "";
-  background: #1e2c35;
+  background: $cor-auxiliar;
   top: 0;
   left: 0;
   bottom: 0;
