@@ -2,10 +2,16 @@ $cor-padrao: #c24e4b;
 $cor-auxiliar: #1e2c35;
 $cor-branca: #FFF;
 $raio: 0.3em;
+$raio-grande: 50px;
 
 @mixin borda-arredondada {
   -webkit-border-radius: $raio;
   border-radius: $raio;
+}
+
+@mixin borda-mais-arredondada {
+  -webkit-border-radius: $raio;
+  border-radius: $raio-grande;
 }
 
 @mixin sombra-padrao {
@@ -111,7 +117,7 @@ header .container {
   border: 0;
   padding: .6em;
   font-size: 1.2em;
-  @include borda-arredondada;
+  @include borda-mais-arredondada;
   @include sombra-padrao;
   font-weight: bold;
 }
