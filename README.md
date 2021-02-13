@@ -47,5 +47,5 @@
 
 # Layouts Responsivos: Trabalhando com layouts mobile (Curso 6/6)
 
-
+()P.S.: a branch padrão agora é a Main)
 
