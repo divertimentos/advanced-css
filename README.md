@@ -43,6 +43,8 @@
 
 # Flexbox: Posicione elementos na tela (Curso 3/6)
 
+![flexbox-screenshot](https://github.com/guilherme-learning-center/advanced-css/blob/main/3-flexbox/media/flexbox-screenshot.png)
+
 # CSS Grid: Simplificando Layouts (Curso 4/6)
 
 # Web Design Responsivo: Páginas que se adaptam do mobile ao desk (Curso 5/6)
