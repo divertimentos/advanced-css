@@ -37,6 +37,8 @@
 
 # Sass e Compass: Descomplicando o  CSS (Curso 2/6)
 
+![sass-screenshot](https://github.com/guilherme-learning-center/advanced-css/blob/main/2-sass-compass/media/sass-screenshot.png)
+
 
 
 # Flexbox: Posicione elementos na tela (Curso 3/6)
