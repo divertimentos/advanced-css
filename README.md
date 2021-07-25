@@ -1,7 +1,5 @@
 # CSS Avançado
 
-[toc]
-
 # Arquitetura CSS: Descomplicando os problemas (Curso 1/6)
 
 ![screenshot](https://github.com/guilherme-learning-center/advanced-css/blob/main/1-arquitetura-css/arquitetura-css-assets/assets/img/screenshot.jpg)
