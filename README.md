@@ -86,6 +86,8 @@
   ```
 Não aprendi muita coisa com esse curso. Foi basicamente um demonstrativo da sintaxe do Grid Layout, mas de forma confusa e "jogada". Posteriormente vou precisar revisitar o assunto a partir de outras fontes, outros cursos, artigos etc., para assimilar melhor as informações contidas neste curso. Para uma introdução ao assunto, o curso beira o satisfatório; porém, para apreender de fato todas as informações contidas aqui contextualmente de forma a sair usando o Grid, seria necessário repetir o curso mais algumas vezes. Not today, though.
 
+Uma outra coisa impossível de deixar de notar é o áudio do curso. Você fica ouvindo constantemente o som do professor engolindo saliva e fazendo pequenos barulhos com a boca. É nojento. A Alura tem controle de qualidade 0 sobre a forma como seus cursos são feitos.
+
 # Web Design Responsivo: Páginas que se adaptam do mobile ao desk (Curso 5/6)
 
 # Layouts Responsivos: Trabalhando com layouts mobile (Curso 6/6)
