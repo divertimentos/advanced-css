@@ -8,14 +8,14 @@
 
 ### BEM (Block, Element, Modifier)
 
-* `bloco`
-* `bloco__elemento`
-* `bloco--modificador`
-* `bloco__elemento--modificador`
+- `bloco`
+- `bloco__elemento`
+- `bloco--modificador`
+- `bloco__elemento--modificador`
 
 ### Calc
 
-* Para que um banner se estendesse por toda a tela (`height: 100vh;`), mas desconsiderasse a altura da navbar, aprendi a usar a função `calc();` para subtrair 72 pixels:
+- Para que um banner se estendesse por toda a tela (`height: 100vh;`), mas desconsiderasse a altura da navbar, aprendi a usar a função `calc();` para subtrair 72 pixels:
 
   ```css
   .banner__imagem {
@@ -24,7 +24,6 @@
   }
   ```
 
-
 ## Media queries (Responsividade)
 
 ```css
@@ -32,14 +31,12 @@
   .selector {
     padding: 2.5rem;
   }
-};
+} ;
 ```
 
-# Sass e Compass: Descomplicando o  CSS (Curso 2/6)
+# Sass e Compass: Descomplicando o CSS (Curso 2/6)
 
 ![sass-screenshot](https://github.com/guilherme-learning-center/advanced-css/blob/main/2-sass-compass/media/sass-screenshot.png)
-
-
 
 # Flexbox: Posicione elementos na tela (Curso 3/6)
 
@@ -51,40 +48,39 @@
 
 ### Shorthands
 
-* Podemos usar um *shorthand* para o `background()`. Em vez de:
+- Podemos usar um _shorthand_ para o `background()`. Em vez de:
 
   ```css
-    background-image: url('../img/fortnite.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+  background-image: url("../img/fortnite.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   ```
 
   pode-se utilizar apenas:
 
   ```css
-  background: url('../img/fortnite.jpg') center / cover no-repeat;
+  background: url("../img/fortnite.jpg") center / cover no-repeat;
   ```
-  
-  
 
-* Há também um shorthand para `grid-column` e `grid-row`. Em vez de:
+- Há também um shorthand para `grid-column` e `grid-row`. Em vez de:
 
   ```css
-    grid-column-start: 1;
-    grid-column-end: 4;
-  
-    grid-row-start: 1;
-    grid-row-end: 3;
+  grid-column-start: 1;
+  grid-column-end: 4;
+
+  grid-row-start: 1;
+  grid-row-end: 3;
   ```
 
   podemos utilizar:
 
   ```css
-    grid-column: 1 / 4;
-    grid-row: 1 / 3;
+  grid-column: 1 / 4;
+  grid-row: 1 / 3;
   ```
-Na última aula, na seção sobre responsividade nos cards (Seção chamada "Populares"), aprendi alguns detalhes sobre responsividade, como não repetir um seletor se ele se estender ao próximo media query.
+
+  Na última aula, na seção sobre responsividade nos cards (Seção chamada "Populares"), aprendi alguns detalhes sobre responsividade, como não repetir um seletor se ele se estender ao próximo media query.
 
 Não aprendi muita coisa com esse curso. Foi basicamente um demonstrativo da sintaxe do Grid Layout, mas de forma confusa e "jogada". Posteriormente vou precisar revisitar o assunto a partir de outras fontes, outros cursos, artigos etc., para assimilar melhor as informações contidas neste curso. Para uma introdução ao assunto, o curso beira o satisfatório; porém, para apreender de fato todas as informações contidas aqui contextualmente de forma a sair usando o Grid, seria necessário repetir o curso mais algumas vezes. Not today, though.
 
@@ -95,4 +91,3 @@ Uma outra coisa impossível de deixar de notar é o áudio do curso. Você fica 
 # Layouts Responsivos: Trabalhando com layouts mobile (Curso 6/6)
 
 ()P.S.: a branch padrão agora é a Main)
-
