@@ -2,7 +2,7 @@
 
 # Arquitetura CSS: Descomplicando os problemas (Curso 1/6)
 
-![screenshot](https://github.com/guilherme-learning-center/advanced-css/blob/main/1-arquitetura-css/arquitetura-css-assets/assets/img/screenshot.jpg)
+![screenshot](https://github.com/divertimentos/advanced-css/blob/main/0-arquitetura-css/assets/img/screenshot.jpg)
 
 ## Coisas novas que aprendi
 
@@ -68,7 +68,7 @@
   ```css
   grid-column-start: 1;
   grid-column-end: 4;
-
+  
   grid-row-start: 1;
   grid-row-end: 3;
   ```
