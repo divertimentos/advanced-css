@@ -2,7 +2,7 @@
 
 # Arquitetura CSS: Descomplicando os problemas (Curso 1/6)
 
-![screenshot](https://github.com/divertimentos/advanced-css/blob/main/0-arquitetura-css/assets/img/screenshot.jpg)
+![screenshot](https://github.com/divertimentos/advanced-css/blob/main/0-arquitetura-css/assets/img/0-arquitetura-screenshot.jpg)
 
 ## Coisas novas que aprendi
 
@@ -36,8 +36,6 @@
 
 # Sass e Compass: Descomplicando o CSS (Curso 2/6)
 
-![sass-screenshot](https://github.com/guilherme-learning-center/advanced-css/blob/main/2-sass-compass/media/sass-screenshot.png)
-
 # Flexbox: Posicione elementos na tela (Curso 3/6)
 
 ![flexbox-screenshot](https://github.com/guilherme-learning-center/advanced-css/blob/main/3-flexbox/media/flexbox-screenshot.png)
@@ -68,7 +66,7 @@
   ```css
   grid-column-start: 1;
   grid-column-end: 4;
-  
+
   grid-row-start: 1;
   grid-row-end: 3;
   ```
