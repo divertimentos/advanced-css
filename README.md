@@ -19,19 +19,19 @@
 
 ```css
 .banner__imagem {
-	height: calc(100vh - 72px);
-	width: 100%;
-};
+  height: calc(100vh - 72px);
+  width: 100%;
+}
 ```
 
 ## Media queries (Responsividade)
 
 ```css
 @media screen and (min-width: 768px) {
-	.selector {
-		padding: 2.5rem;
-	}
-};
+  .selector {
+    padding: 2.5rem;
+  }
+} ;
 ```
 
 # Flexbox: Posicione elementos na tela (Curso 1/4)
@@ -78,13 +78,10 @@ grid-row: 1 / 3;
 
 Na última aula, na seção sobre responsividade nos cards (Seção chamada "Populares"), aprendi alguns detalhes sobre responsividade, como não repetir um seletor se ele se estender ao próximo media query.
 
-Não aprendi muita coisa com esse curso. Foi basicamente um demonstrativo da sintaxe do Grid Layout, mas de forma confusa e "jogada". Posteriormente vou precisar revisitar o assunto a partir de outras fontes, outros cursos, artigos etc., para assimilar melhor as informações contidas neste curso. Para uma introdução ao assunto, o curso beira o satisfatório; porém, para apreender de fato todas as informações contidas aqui contextualmente de forma a sair usando o Grid, seria necessário repetir o curso mais algumas vezes. *Not today, though*.
+Não aprendi muita coisa com esse curso. Foi basicamente um demonstrativo da sintaxe do Grid Layout, mas de forma confusa e "jogada". Posteriormente vou precisar revisitar o assunto a partir de outras fontes, outros cursos, artigos etc., para assimilar melhor as informações contidas neste curso. Para uma introdução ao assunto, o curso beira o satisfatório; porém, para apreender de fato todas as informações contidas aqui contextualmente de forma a sair usando o Grid, seria necessário repetir o curso mais algumas vezes. _Not today, though_.
 
 Uma outra coisa impossível de deixar de notar é o áudio do curso. Você fica ouvindo constantemente o som do professor engolindo saliva e fazendo pequenos barulhos com a boca. É nojento. A Alura tem controle de qualidade 0 sobre a forma como seus cursos são feitos.
 
 # Sass: O CSS com superpoderes (Curso 3/4)
 
 # Layouts Responsivos: Trabalhando com layouts mobile (Curso 4/4)
-
-
-
