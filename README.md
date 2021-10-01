@@ -2,7 +2,7 @@
 
 # Arquitetura CSS: Descomplicando os problemas (Curso 1/6)
 
-![screenshot](https://github.com/divertimentos/advanced-css/blob/main/0-arquitetura-css/assets/img/0-arquitetura-screenshot.jpg)
+![screenshot](https://github.com/divertimentos/advanced-css/blob/main/media/0-arquitetura-screenshot.jpg)
 
 ## Coisas novas que aprendi
 
@@ -38,7 +38,7 @@
 
 # Flexbox: Posicione elementos na tela (Curso 3/6)
 
-![flexbox-screenshot](https://github.com/guilherme-learning-center/advanced-css/blob/main/3-flexbox/media/flexbox-screenshot.png)
+![flexbox-screenshot](https://github.com/divertimentos/advanced-css/blob/main/media/1-flexbox-screenshot.png)
 
 # CSS Grid: Simplificando Layouts (Curso 4/6)
 
@@ -66,7 +66,7 @@
   ```css
   grid-column-start: 1;
   grid-column-end: 4;
-
+  
   grid-row-start: 1;
   grid-row-end: 3;
   ```
@@ -88,4 +88,3 @@ Uma outra coisa impossível de deixar de notar é o áudio do curso. Você fica 
 
 # Layouts Responsivos: Trabalhando com layouts mobile (Curso 6/6)
 
-()P.S.: a branch padrão agora é a Main)
